@@ -7,4 +7,4 @@
 `docker build -t docker-test .`
 
 - run a container
-`docker run docker-test`
+`docker run --rm docker-test`
