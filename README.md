@@ -1,6 +1,5 @@
 # docker-test 
 
-- 
 set your git
 
 `git config --global core.autocrlf false`
